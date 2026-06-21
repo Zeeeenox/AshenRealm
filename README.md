@@ -1,7 +1,7 @@
 
   # Ashen Realm
 
-  This is a code bundle for Ashen Realm. The original project is available at https://www.figma.com/design/Z9WuW92lfsoKPuIYaxkGUf/Ashen-Realm.
+  AshenRealm is a responsive gamification strategy dashboard inspired by dark fantasy and Souls-like RPG games
 
   ## Running the code
 
